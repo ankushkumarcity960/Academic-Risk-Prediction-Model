@@ -1,6 +1,3 @@
-# Academic-Risk-Prediction-Model
-Machine Learning project for student dropout prediction
-
 
 # Academic Risk Prediction Model
 
